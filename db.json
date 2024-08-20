@@ -1,0 +1,91 @@
+{
+  "student": [
+    {
+      "id": "d8cd",
+      "roll": "4452",
+      "name": "Karan Kal",
+      "email": "karan@mail.com",
+      "phno": "567898769",
+      "checkInTime": "12:26:23 pm",
+      "checkOutTime": "3:55:51 pm",
+      "totalTime": "3 hours 29 minutes"
+    },
+    {
+      "id": "0d8e",
+      "roll": "4743",
+      "name": "Sourav Faga",
+      "email": "fagasava@mail.com",
+      "phno": "9876789789",
+      "checkInTime": "3:56:16 pm",
+      "checkOutTime": "3:57:27 pm",
+      "totalTime": "0 hours 1 minutes"
+    },
+    {
+      "id": "b7ab",
+      "roll": "9989",
+      "name": "rohit mishra",
+      "email": "rohit@mail.com",
+      "phno": "98668987",
+      "checkInTime": "3:57:41 pm",
+      "checkOutTime": "10:31:58 am",
+      "totalTime": "-6 hours -26 minutes"
+    },
+    {
+      "id": "caad",
+      "roll": "7767",
+      "name": "kanak Kaur",
+      "email": "kanat@mail.com",
+      "phno": "987656789",
+      "checkInTime": "10:28:10 am",
+      "checkOutTime": "3:05:08 pm",
+      "totalTime": "4 hours 36 minutes"
+    },
+    {
+      "id": "c2a4",
+      "roll": "4322",
+      "name": "polir shail",
+      "email": "polir@mail.com",
+      "phno": "7656789876",
+      "checkInTime": "5:36:36 am",
+      "checkOutTime": "10:32:02 am",
+      "totalTime": "4 hours 55 minutes"
+    },
+    {
+      "id": "5f40",
+      "roll": "9763",
+      "name": "Rajesh Bal",
+      "email": "rajabal@mail.com",
+      "phno": "987890987",
+      "checkInTime": "10:30:00 am",
+      "checkOutTime": "10:32:08 am",
+      "totalTime": "0 hours 2 minutes"
+    },
+    {
+      "id": "be41",
+      "roll": "5434",
+      "name": "Rohit Yadav",
+      "email": "rohh@mail.com",
+      "phno": "78909876",
+      "checkInTime": "10:30:19 am",
+      "checkOutTime": "10:32:04 am",
+      "totalTime": "0 hours 1 minutes"
+    },
+    {
+      "id": "025d",
+      "roll": "8799",
+      "name": "Sonia Saha ",
+      "email": "sonial@mail.com",
+      "phno": "987678902",
+      "checkInTime": "11:07:55 am",
+      "checkOutTime": "11:10:25 am",
+      "totalTime": "0 hours 2 minutes"
+    },
+    {
+      "id": "5854",
+      "roll": "6543",
+      "name": "Kiran Lazn",
+      "email": "Kira@mail.com",
+      "phno": "6543678653"
+    }
+  ]
+}
